@@ -1,5 +1,7 @@
 # Оценка параметров АМ-сигнала на фоне шума: где ломается максимальное правдоподобие
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
+
 Обратная задача: по зашумлённой записи амплитудно-модулированного сигнала восстановить
 частоту несущей, частоту модулятора и глубину модуляции. Метод максимального правдоподобия
 против спектрального оценивания, граница Крамера—Рао как теоретический предел — и главный
