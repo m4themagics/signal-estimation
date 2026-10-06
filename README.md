@@ -1,7 +1,7 @@
 # Оценка параметров АМ-сигнала на фоне шума: где ломается максимальное правдоподобие
 
 > **Статус: завершено.** Исследовательский вопрос закрыт воспроизводимыми численными
-> экспериментами; дальнейшее расширение не входит в текущий портфельный план.
+> экспериментами.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
 
